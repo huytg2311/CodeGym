@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="blog:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ed4378e-91d0-4b51-8eb9-d1f7ae040dcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/FuramaResortApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/config/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/contract/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/contract/ContractDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/customer/CustomerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/employee/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/employee/EducationDegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/employee/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/service/AttachService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/service/RentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/service/ServiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/model/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/AttachServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/ContractDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/ContractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/CustomerTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/ServiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/service/IServiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/service/impl/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/java/vn/codegym/furamaresort/utils/IdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/resources/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/resources/static/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/resources/static/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/main/resources/templates/customer/customer-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Casestudy/furama-resort/src/test/java/vn/codegym/furamaresort/FuramaResortApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 3/MVC Casestudy/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 3/MVC Casestudy/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 3/MVC Casestudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 3/MVC Casestudy/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1yyoF1kj1sFnhnyvQQEMEC0bJsd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.codota.intellij.common.configuration.CodotaConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/category" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/blog" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="blog:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f7877a76-3ef3-4996-be8c-ac040d6802ba" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63081" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="blog:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed4378e-91d0-4b51-8eb9-d1f7ae040dcc" name="Changes" comment="" />
+      <created>1633233090912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633233090912</updated>
+      <workItem from="1633233093322" duration="17180000" />
+      <workItem from="1633315309562" duration="1118000" />
+      <workItem from="1633351212553" duration="189000" />
+      <workItem from="1633355913671" duration="2572000" />
+      <workItem from="1634047897156" duration="643000" />
+      <workItem from="1634127759185" duration="4283000" />
+      <workItem from="1634558381772" duration="1172000" />
+      <workItem from="1635821206307" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
